@@ -1,4 +1,4 @@
-# React + TYpescript People Table 
+# React + TypeScript People Table 
 
 > Here is [the working example][https://svitlanatsupryk-jul18.github.io/react_people-table-basics/]
 
