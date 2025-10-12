@@ -1,6 +1,6 @@
 # React + TypeScript People Table 
 
-> Here is [the working example][https://svitlanatsupryk-jul18.github.io/react_people-table-basics/]
+> Here is [the working example](https://svitlanatsupryk-jul18.github.io/react_people-table-basics/)
 
 Implemented the `App` with 2 pages and ability to select a person in the table.
 
